@@ -1,0 +1,14 @@
+{
+  "name": "Voorjaarsactie",
+  "version": "1.0.0",
+  "description": "Voorjaarsactie website",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-less": "~0.9.0",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "author": "Sebastian Ruiz",
+  "private": true,
+  "license": "BSD"
+}
